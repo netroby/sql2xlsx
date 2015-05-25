@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/netroby/sql2xlsx",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/tealeg/xlsx",
+			"Comment": "go1.1.2-315-gd5347a2",
+			"Rev": "d5347a2be9dd25ae7613816eba5ab74505104ac8"
+		}
+	]
+}
